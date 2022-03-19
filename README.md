@@ -5,11 +5,8 @@
 <br />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=qjinle&show_icons=true" />
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjinle&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjinle&show_icons=true)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjinle&layout=compact" />
-
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <h4 align="center"> Thanks for Visiting!:innocent:</h4> -->
