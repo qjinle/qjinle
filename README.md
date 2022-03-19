@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hi 👋, I'm Jinle</h3>
 
-<!--
-**qjinle/qjinle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">A front-end developer from China, I prefer to call myself a front-end intern!</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=qjinle&show_icons=true" />
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjinle&show_icons=true) -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjinle&layout=compact" />
+
+<br />
+
+<!-- <h4 align="center"> Thanks for Visiting!:innocent:</h4> -->
