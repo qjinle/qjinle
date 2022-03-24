@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Jinle</h3>
 
-<div align="center">A front-end developer from China, I prefer to call myself a front-end intern!</div>
+<div align="center">A front-end developer from China, or a front-end trainee!</div>
 
 <br />
 
