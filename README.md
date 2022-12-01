@@ -15,6 +15,7 @@
 <br>
 
 #### Activities
-<img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=qjinle&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+<!-- <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=qjinle&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /> -->
+<img alt="Github 日常" src="https://activity-graph.herokuapp.com/graph/?username=qjinle&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
