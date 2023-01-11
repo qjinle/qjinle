@@ -1,6 +1,8 @@
 <h3 align="center">Hi 👋, I'm Jinle</h3>
 
-<div align="center">A front-end developer from China, or a front-end trainee!</div>
+<div align="center">A front-end developer from China. Currently, I am learning about Node.js and Rust.</div>
+
+<div align="center">Welcome to communicate with me through email!</div>
 
 <br />
 
