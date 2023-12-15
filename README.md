@@ -2,7 +2,7 @@
 
 <div>A front-end developer from China.</div>
 
-<div>Currently, I am learning about Node.js and Rust.</div>
+<div>Currently, I am learning about Nextjs.</div>
 
 <div>Welcome to communicate with me through email!</div>
 
