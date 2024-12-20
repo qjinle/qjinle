@@ -1,10 +1,10 @@
 <h3>Hi 👋, I'm Jinle</h3>
 
-<div>A front-end developer from China.</div>
+<!-- <div>A front-end developer from China.</div>
 
 <div>Currently, I am learning about Nextjs.</div>
 
-<div>Welcome to communicate with me through email!</div>
+<div>Welcome to communicate with me through email!</div> -->
 
 #### Statistics
 <a href="https://github.com/qjinle" target="_blank">
